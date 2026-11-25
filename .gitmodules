@@ -1,0 +1,51 @@
+[submodule "upstream/public-apis--public-apis"]
+	path = upstream/public-apis--public-apis
+	url = https://github.com/public-apis/public-apis.git
+
+[submodule "upstream/openclaw--openclaw"]
+	path = upstream/openclaw--openclaw
+	url = https://github.com/openclaw/openclaw.git
+
+[submodule "upstream/awesome-selfhosted--awesome-selfhosted"]
+	path = upstream/awesome-selfhosted--awesome-selfhosted
+	url = https://github.com/awesome-selfhosted/awesome-selfhosted.git
+
+[submodule "upstream/mattpocock--skills"]
+	path = upstream/mattpocock--skills
+	url = https://github.com/mattpocock/skills.git
+
+[submodule "upstream/obra--superpowers"]
+	path = upstream/obra--superpowers
+	url = https://github.com/obra/superpowers.git
+
+[submodule "upstream/affaan-m--ECC"]
+	path = upstream/affaan-m--ECC
+	url = https://github.com/affaan-m/ECC.git
+
+[submodule "upstream/deepseek-ai--deepseek-harness"]
+	path = upstream/deepseek-ai--deepseek-harness
+	url = https://github.com/deepseek-ai/deepseek-harness.git
+
+[submodule "upstream/n8n-io--n8n"]
+	path = upstream/n8n-io--n8n
+	url = https://github.com/n8n-io/n8n.git
+
+[submodule "upstream/firecrawl--firecrawl"]
+	path = upstream/firecrawl--firecrawl
+	url = https://github.com/firecrawl/firecrawl.git
+
+[submodule "upstream/anthropics--skills"]
+	path = upstream/anthropics--skills
+	url = https://github.com/anthropics/skills.git
+
+[submodule "upstream/morluto--rea"]
+	path = upstream/morluto--rea
+	url = https://github.com/morluto/rea.git
+
+[submodule "upstream/NousResearch--hermes-agent"]
+	path = upstream/NousResearch--hermes-agent
+	url = https://github.com/NousResearch/hermes-agent.git
+
+[submodule "upstream/anomalyco--opencode"]
+	path = upstream/anomalyco--opencode
+	url = https://github.com/anomalyco/opencode.git
